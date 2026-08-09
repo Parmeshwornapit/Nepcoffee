@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { background: #f8f2e9; color: #22140f; }
+::selection { background: #d39b4a; color: #22140f; }
+.grain { background-image: radial-gradient(rgba(255,255,255,.11) 1px, transparent 1px); background-size: 5px 5px; }
+.btn { @apply inline-flex items-center justify-center rounded-full px-6 py-3.5 font-semibold transition duration-200; }
+.btn-primary { @apply btn bg-gold text-espresso hover:-translate-y-0.5 hover:bg-[#ebbb72] shadow-lg; }
+.btn-dark { @apply btn bg-espresso text-cream hover:-translate-y-0.5 hover:bg-roast; }
+.eyebrow { @apply text-xs font-bold uppercase tracking-[.18em] text-gold; }

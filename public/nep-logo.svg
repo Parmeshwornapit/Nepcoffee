@@ -1,0 +1,9 @@
+<svg width="240" height="72" viewBox="0 0 240 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14 42C22 30 28 19 36 10C43 22 49 33 58 42" stroke="#D39B4A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 42H55" stroke="#D39B4A" stroke-width="2" stroke-linecap="round"/>
+  <path d="M25 50C27 58 33 62 40 62C48 62 53 57 54 50H25Z" stroke="#D39B4A" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M54 52C63 52 64 43 58 43" stroke="#D39B4A" stroke-width="2" stroke-linecap="round"/>
+  <path d="M31 5C28 9 29 13 33 16" stroke="#D39B4A" stroke-width="2" stroke-linecap="round"/>
+  <text x="75" y="42" fill="#F7E6C9" font-family="Georgia, serif" font-size="35" font-weight="700" letter-spacing="5">NEP</text>
+  <text x="77" y="59" fill="#D39B4A" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="2.4">NEPALI COFFEE</text>
+</svg>
